@@ -1,129 +1,144 @@
-# Hi there 👋 I'm Talladi Pavanchandra
+# Talladi Pavanchandra
 
 <div align="center">
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=Tpavanchandra&color=00D9FF&style=for-the-badge)](https://github.com/Tpavanchandra)
-  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrng4igf/giphy.gif" width="30px">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=📊+Data+Analyst;💻+Python+Developer;📈+Business+Intelligence;🎨+Data+Visualization)](https://github.com/Tpavanchandra)
-  
-</div>
+[![Profile Views](https://komarev.com/ghpvc/?username=Tpavanchandra&color=0D1117&style=flat-square&label=Profile+Views)](https://github.com/Tpavanchandra)
+
+**Data Analyst | Python Developer | Business Intelligence Specialist**
+
+*Transforming complex data into actionable insights through visualization and analytics*
 
 ---
-
-## 🎯 About Me
-
-I'm a passionate **Data Analyst** transforming raw data into actionable insights! With expertise in Python, Power BI, and advanced analytics tools, I help businesses make data-driven decisions. I combine technical expertise with creative problem-solving to unlock the stories hidden within data.
-
-- 🔬 **Specialization**: Data Analysis & Business Intelligence
-- 💡 **Passion**: Converting complex data into meaningful visualizations
-- 📚 **Lifelong Learner**: Constantly exploring new tools and methodologies
-- 🎨 **Creative Problem Solver**: Turning challenges into data-driven solutions
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Frontend & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-### Backend & Data Processing
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools & Platforms
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
+## 👤 Professional Summary
+
+Results-driven Data Analyst with proven expertise in business intelligence, data visualization, and analytical problem-solving. Specialized in leveraging Python, Power BI, and advanced analytics tools to deliver data-driven solutions that drive strategic business decisions. Committed to continuous learning and delivering high-quality analytical work.
+
+**Core Competencies:**
+- Advanced Data Analysis & Visualization
+- Business Intelligence & Data Warehousing
+- Python Development & Data Processing
+- Statistical Analysis & Predictive Modeling
+- Dashboard Design & Reporting
+
 ---
 
-## 📱 Connect With Me
+## 💼 Technical Proficiency
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talladi-pavanchandra-b6036428b/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tpavanchandra)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Tpavanchandra)
+### Data Visualization & BI Tools
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black&label=Power%20BI)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white&label=Tableau)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white&label=Matplotlib)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white&label=Plotly)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E86AB?style=flat-square&logo=python&logoColor=white&label=Seaborn)
+
+### Programming Languages & Data Processing
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&label=Python)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&label=Pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&label=NumPy)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white&label=SQL)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&label=Scikit-Learn)
+
+### Analytics & Professional Tools
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white&label=Excel)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white&label=Jupyter)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&label=Git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&label=GitHub)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white&label=VS%20Code)
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Analytics & Impact
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tpavanchandra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+**GitHub Statistics**
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tpavanchandra&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tpavanchandra&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tpavanchandra&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tpavanchandra&theme=nord&hide_border=true&type=svg)
+
+**Most Used Technologies**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tpavanchandra&layout=compact&theme=nord&hide_border=true)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎖️ Achievements
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tpavanchandra&theme=onedark&column=7&no-frame=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tpavanchandra&theme=nord&column=7&margin-w=15&margin-h=15&no-frame=false)
 
 </div>
 
 ---
 
-## 🚀 My Expertise
+## 🔬 Areas of Expertise
 
-- **Data Visualization**: Creating compelling dashboards in Power BI & Tableau
-- **Data Analysis**: Extracting insights using Python (Pandas, NumPy, Matplotlib)
-- **Business Intelligence**: Turning data into strategic insights
-- **Excel Mastery**: Advanced formulas, pivot tables, and data modeling
-- **Python Development**: Data processing and automation scripts
-- **Statistical Analysis**: Hypothesis testing and predictive modeling
-
----
-
-## 💼 Featured Work
-
-My repositories showcase my expertise in:
-- Data analysis projects
-- Business intelligence solutions
-- Python automation scripts
-- Visualization dashboards
-- Educational data science content
+| Domain | Skills |
+|--------|--------|
+| **Data Analysis** | Exploratory Data Analysis (EDA), Statistical Testing, Data Wrangling, ETL Processes |
+| **Visualization** | Dashboard Design, Interactive Reports, Data Storytelling, Infographics |
+| **Business Intelligence** | KPI Development, Performance Metrics, Data Warehousing, Strategic Insights |
+| **Programming** | Python Scripting, Automation, Algorithm Development, Data Processing |
+| **Database Management** | SQL Optimization, Query Design, Data Integrity, Data Modeling |
 
 ---
 
-## 🤝 Let's Connect!
+## 🌐 Professional Network
 
 <div align="center">
 
-**I'm always open to exciting projects involving data analysis, visualization, and business intelligence.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talladi-pavanchandra-b6036428b/)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tpavanchandra)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pavanctalladi@gmail.com)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=about.me&logoColor=white)](https://github.com/Tpavanchandra)
 
-Feel free to reach out on LinkedIn or explore my repositories!
+</div>
+
+---
+
+## 📂 Featured Work
+
+My repositories demonstrate expertise in:
+- **Data Analysis Projects** - End-to-end analysis with insights and recommendations
+- **Business Intelligence Solutions** - Interactive dashboards and reporting systems
+- **Python Automation** - Data processing and workflow optimization scripts
+- **Visualization & Analytics** - Statistical analysis and visual data storytelling
+- **Educational Content** - Data science methodologies and best practices
+
+---
+
+## 📈 Current Focus
+
+- 🔍 Advanced statistical modeling and predictive analytics
+- 📊 Real-time dashboard development and optimization
+- 🤖 Machine learning applications in business analytics
+- 💻 Expanding Python ecosystem expertise
+- 📚 Knowledge sharing and community contribution
 
 ---
 
 <div align="center">
-  
-⭐ If you like my work, don't forget to star my repositories!
 
-Made with ❤️ by Talladi Pavanchandra
+**Open to collaboration on data analytics, business intelligence, and data-driven projects**
 
-**Keep analyzing, keep visualizing, keep innovating!** 🚀
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talladi-pavanchandra-b6036428b/)
+
+---
+
+*Last Updated: August 2026 | Continuously Learning & Growing*
 
 </div>
